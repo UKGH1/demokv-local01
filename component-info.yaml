@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "demkv-local01"
+  annotations:
+    github.com/project-slug: UKGH1/azure_kv_tfmods
+    backstage.io/techdocs-ref: dir:.
+  title: AzResource - demkv-local01  # you can give any title
+  description: An example of a Azure Storage account Creation. # Change Description accordingly
+spec:
+  type: service
+  owner:  user:default/uday-kumar.kunta_capgemini.com
+  lifecycle: experimental
