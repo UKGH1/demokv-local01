@@ -9,5 +9,5 @@ metadata:
   description: An example of a Azure Storage account Creation. # Change Description accordingly
 spec:
   type: service
-  owner:  user:default/uday-kumar.kunta_capgemini.com
+  owner:  user:default/udaykunta
   lifecycle: experimental
