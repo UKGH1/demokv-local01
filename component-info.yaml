@@ -6,7 +6,7 @@ metadata:
     github.com/project-slug: UKGH1/azure_kv_tfmods
     backstage.io/techdocs-ref: dir:.
   title: AzResource - demkv-local01  # you can give any title
-  description: An example of a Azure Storage account Creation. # Change Description accordingly
+  description: Azure Key Vault Creation. # Change Description accordingly
 spec:
   type: service
   owner:  user:default/udaykunta
